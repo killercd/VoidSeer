@@ -1,6 +1,6 @@
 # VoidSeer
 
-**Persistent Attack Surface Management (ASM)**  
+**Persistent Attack Surface Management**  
 *Discover. Remember. Correlate. Reassess.*
 
 > **Project status:** Early design / pre-alpha. This README describes the intended architecture and roadmap, not a finished implementation.
